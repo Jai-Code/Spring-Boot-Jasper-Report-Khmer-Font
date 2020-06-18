@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+	<fontFamily name="KhmerWing2">
+		<normal><![CDATA[fonts/KhmerWing2/wingdings2.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="Tacteing">
+		<normal><![CDATA[fonts/Tacteing/Tacteing.TTF]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="Times New Roman">
+		<normal><![CDATA[fonts/TimesNewRoman/Tinos-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/TimesNewRoman/Tinos-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/TimesNewRoman/Tinos-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/TimesNewRoman/Tinos-BoldItalic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="Arial Black">
+		<normal><![CDATA[fonts/ArialBlack/Arial-Black.ttf]]></normal>
+		<bold><![CDATA[fonts/ArialBlack/Arial-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/ArialBlack/Arial-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/ArialBlack/Arial-Bold-Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="Khmer OS Muol Light">
+		<normal><![CDATA[fonts/KhmerOSMuolLight/Khmer-OS-Muol-Light.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+</fontFamilies>

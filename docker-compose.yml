@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+  report-generator:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: jasper-report-app
+    ports:
+      - 8080:8080
+    networks:
+      - network1
+
+networks:
+  network1:
