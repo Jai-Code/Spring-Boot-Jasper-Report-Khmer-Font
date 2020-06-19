@@ -5,7 +5,7 @@
 - Based on JasperReports and Spring Boot
 - Based Web PDF generation
 - Internationalized(i18n) PDF generation
-- Khmer Font Support
+- Khmer Font Supported
 
 ## Requirements
 
