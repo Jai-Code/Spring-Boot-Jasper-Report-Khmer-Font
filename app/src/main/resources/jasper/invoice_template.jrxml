@@ -61,11 +61,11 @@
 				<textFieldExpression><![CDATA[$R{jasper.invoice.title.label} + ": " + $P{order}.getCode()]]></textFieldExpression>
 			</textField>
 			<staticText>
-				<reportElement x="0" y="50" width="110" height="55" uuid="d3366b29-c1da-4e5a-b0c7-880ff1404b0f"/>
+				<reportElement x="0" y="50" width="300" height="55" uuid="d3366b29-c1da-4e5a-b0c7-880ff1404b0f"/>
 				<textElement>
-					<font fontName="Khmer OS Muol Light" size="25"/>
+					<font fontName="Khmer OS Muol Light" size="22"/>
 				</textElement>
-				<text><![CDATA[កម្ពុជា]]></text>
+				<text><![CDATA[ស៊ី ញ៉ាំ កម្ពុជា ស៊ឹង]]></text>
 			</staticText>
 		</band>
 	</title>
