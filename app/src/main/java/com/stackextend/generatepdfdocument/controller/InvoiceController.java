@@ -25,7 +25,7 @@ import static org.springframework.http.HttpStatus.OK;
 import static org.springframework.http.MediaType.APPLICATION_PDF;
 
 @Controller
-@RequestMapping("C")
+@RequestMapping("/invoice/generator")
 public class InvoiceController {
 
     static private Logger logger = LogManager.getLogger(InvoiceController.class);
